@@ -1,7 +1,4 @@
 # 🔡 Custom Tokenizer Web App
-
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ---
 
 ### 📖 Description
@@ -77,8 +74,8 @@ Real-time encoding & decoding
 Educational purpose — learn how LLM tokenization works
 
 ### Deployment
-The easiest way to deploy this Next.js app is via Vercel:
-For manual deployment, refer to the Next.js Deployment Docs.
+The easiest way to deploy this Next.js app is via vercel https://vercel.org :
+For manual deployment, refer to the Next.js Deployment Docs https://nextjs.org/docs .
 
 ### Contributing
 Contributions are welcome!
