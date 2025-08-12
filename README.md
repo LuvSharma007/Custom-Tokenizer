@@ -1,7 +1,7 @@
-# 🔡 Custom Tokenizer Web App
+# Custom Tokenizer Web App
 ---
 
-### 📖 Description
+### Description
 
 This is a **Custom Tokenizer Web App** that converts text into tokens and tokens back into text (decode).  
 It gives you a **rough idea of how Large Language Models (LLMs)** like GPT handle text behind the scenes.  
@@ -9,7 +9,7 @@ After implementing this project, you will understand the **basics of tokenizatio
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 - **Frontend Framework:** [Next.js](https://nextjs.org/) (React-based)
 - **Language:** JavaScript (ES6+)
@@ -20,7 +20,7 @@ After implementing this project, you will understand the **basics of tokenizatio
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1️⃣ Clone the Repository
 ```bash
