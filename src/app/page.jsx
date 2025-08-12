@@ -3,6 +3,7 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { createTokenizer } from '@/helpers/generateVacab'; // import from tokenizer.js
 import { Input } from '@/components/ui/input';
+import Link from 'next/link';
 
 export default function HomePage() {
 
@@ -40,7 +41,13 @@ export default function HomePage() {
 
   return (
     <div className='flex flex-col justify-center items-center'>
+        <div className='flex gap-5' >
         <h1 className='text-7xl'>Custom Tokenizer</h1>
+        <Link
+        href="https://github.com/LuvSharma007/Custom-Tokenizer"
+        className='border-2 rounded w-30 h-10 text-center'
+        >Github</Link>
+        </div>
         <div>
             <h1 className='text-2xl m-10 text-center'>Encode</h1>
             <Input
